@@ -7,7 +7,7 @@ namespace MyConsole1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Word by ALGOSUP");
+            Console.WriteLine("Hello World by ALGOSUP");
         }
     }
 }
